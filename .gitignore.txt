@@ -1,0 +1,6 @@
+.vs/
+.gitignore
+/GestionEntidades/obj/
+/GestionEntidades/bin/
+/GestionTiendaDbContext/obj/
+/GestionTiendaDbContext/bin/

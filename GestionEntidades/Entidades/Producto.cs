@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace GestionEntidades.Entidades;
 
-public class Usuario
+public class Producto
 {
     [Key]
     public string Id { get; set; }
